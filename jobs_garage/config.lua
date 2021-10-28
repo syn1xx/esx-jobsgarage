@@ -1,8 +1,3 @@
---------------------------------
-------- Created by Hamza -------
------- Reworked by D4NDI -------
--------------------------------- 
-
 Config = {}
 
 Config.KeyToOpenCarGarage = 38			-- default 38 is E

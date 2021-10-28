@@ -1,8 +1,3 @@
---------------------------------
-------- Created by Hamza -------
------- Reworked by D4NDI -------
---------------------------------
-
 ESX = nil
 
 Citizen.CreateThread(function()
